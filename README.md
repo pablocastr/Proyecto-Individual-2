@@ -1,7 +1,7 @@
 # <h1 align="center">**`Proyecto Individual 2`**
 
 <p align="center">
-<img src="https://www.infobioquimica.com/new/wp-content/uploads/2016/12/hipoglucemia.jpg"   
+<img src="https://www.mapfreglobalrisks.com/media/Imagen-Portada-adaptada-1-2.jpg"   
 >
 </p>
 
